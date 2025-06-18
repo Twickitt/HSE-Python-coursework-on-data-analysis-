@@ -1,0 +1,1 @@
+Need to make conclusion and presentation. Probably, to make analysis deeper, we need 3D clusters plots (with three main components), because two components are giving very bad cluster_silhouette score(Best Silhouette Score = 0.404 reaches with cluster numbers: k=2)
